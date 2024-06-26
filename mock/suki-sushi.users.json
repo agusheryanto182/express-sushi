@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "62cfe35e8ad11e7a5e240f29"
+  },
+  "name": "Agus Heryanto",
+  "email": "agusheryanto@gmail.com",
+  "password": "$2a$10$Jp/3156MG3vT6PlWjG6E4OPsnsgPjc1l62Cks1eqR5Lc6.A4N.JRG",
+  "phone": "0812345678901",
+  "role": "admin",
+  "lastLogin": {
+    "$date": "2024-06-26T23:10:37.301Z"
+  },
+  "created_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  },
+  "updated_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:15:34.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62cfe35e8ad11e7a5e240f30"
+  },
+  "name": "Ihwan",
+  "email": "ihwan@gmail.com",
+  "password": "$2y$10$3ZKyzix6tMBldJUQKQYEkOtS4.CBUc0vc0xarsX.b7kPVNxAsd53O",
+  "phone": "0812345678902",
+  "role": "admin",
+  "lastLogin": "2022-11-08T23:59:59.000Z",
+  "created_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  },
+  "updated_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62cfe35e8ad11e7a5e240f31"
+  },
+  "name": "Adit",
+  "email": "adit@gmail.com",
+  "password": "$2y$10$3ZKyzix6tMBldJUQKQYEkOtS4.CBUc0vc0xarsX.b7kPVNxAsd53O",
+  "phone": "0812345678903",
+  "role": "admin",
+  "lastLogin": "2022-11-08T23:59:59.000Z",
+  "created_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  },
+  "updated_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62cfe35e8ad11e7a5e240f32"
+  },
+  "name": "bagas",
+  "email": "bagas@gmail.com",
+  "password": "$2y$10$3ZKyzix6tMBldJUQKQYEkOtS4.CBUc0vc0xarsX.b7kPVNxAsd53O",
+  "phone": "0812345678903",
+  "role": "admin",
+  "lastLogin": "2022-11-08T23:59:59.000Z",
+  "created_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  },
+  "updated_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62cfe35e8ad11e7a5e240f33"
+  },
+  "name": "faiz",
+  "email": "faiz@gmail.com",
+  "password": "$2y$10$3ZKyzix6tMBldJUQKQYEkOtS4.CBUc0vc0xarsX.b7kPVNxAsd53O",
+  "phone": "0812345678904",
+  "role": "admin",
+  "lastLogin": "2022-11-08T23:59:59.000Z",
+  "created_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  },
+  "updated_at": {
+    "$date": "2022-10-30T04:45:00.000Z"
+  }
+}]

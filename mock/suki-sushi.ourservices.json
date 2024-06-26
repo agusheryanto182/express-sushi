@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "667c9b97b0f2487de32dc2b4"
+  },
+  "title": "Delivery Order",
+  "description": "Anda malas menunggu makanan saat anda telah sampai di restaurant? Kini anda dapat memesan makanan anda terlebih dahulu saat anda masih dalam perjalanan",
+  "imageUrl": "uploads/45319383-Delivery.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T22:52:07.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T22:52:07.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9c1eb0f2487de32dc2b8"
+  },
+  "title": "Profesional Chef's",
+  "description": "Suki Sushi adalah restaurant yang menyediakan makanan terbaik dan terlengkap dengan chef                             yang profesional",
+  "imageUrl": "uploads/71365831-Chef.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T22:54:22.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T22:54:22.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9c66b0f2487de32dc2bc"
+  },
+  "title": "Sushi Pairing Guide",
+  "description": "Sushi pairing guide adalah panduan yang membantu Anda memilih kombinasi makanan dan minuman yang paling cocok dengan berbagai jenis sushi. Tujuannya adalah untuk meningkatkan pengalaman kuliner dengan menemukan rasa yang saling melengkapi.",
+  "imageUrl": "uploads/49147363-Booking.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T22:55:34.513Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T22:55:34.513Z"
+  },
+  "__v": 0
+}]

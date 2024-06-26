@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "667ca000b0f2487de32dc392"
+  },
+  "title": "About Suki Sushi",
+  "description": "Kami siap membantu anda dalam langkah perjalanan kuliner anda!",
+  "imageUrl": "uploads/19866966-ab1.jpg",
+  "numberOfContent": 1,
+  "createdAt": {
+    "$date": "2024-06-26T23:10:56.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:10:56.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ca01eb0f2487de32dc397"
+  },
+  "title": "Our Mission",
+  "description": "\"Spread our love and passion for those sushi lovers to produce premium quality fresh sushi around the world.\"",
+  "imageUrl": "uploads/42817800-ab2.jpg",
+  "numberOfContent": 2,
+  "createdAt": {
+    "$date": "2024-06-26T23:11:26.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:11:26.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ca036b0f2487de32dc39c"
+  },
+  "title": " Apa itu suki sushi?",
+  "description": "Kami mengabdi pada nilai-nilai kualitas, keaslian, dan keramahan. Setiap suapan sushi yang kami sajikan adalah hasil dari bahan-bahan berkualitas tinggi, dipilih dengan cermat untuk memberikan cita rasa yang tak tertandingi. Dari sushi klasik hingga kreasi modern, setiap hidangan disajikan dengan keahlian dan perhatian terhadap detail. Selain menyajikan hidangan sushi yang luar biasa, kami juga berkomitmen untuk menciptakan lingkungan yang menyambut dan ramah. Staf kami siap membantu Anda dalam setiap langkah perjalanan kuliner Anda, memberikan saran tentang pilihan menu terbaik dan memastikan pengalaman makan Anda di Restoran Sushi Sama menjadi momen yang tak terlupakan. Kami berharap dapat menyambut Anda segera di Restoran Sushi Sama. Datanglah dan nikmati pengalaman kuliner yang menggugah selera di tempat kami, di mana setiap gigitan adalah petualangan rasa yang baru. Terima kasih atas kunjungan Anda, dan kami berharap dapat memberikan Anda pengalaman sushi terbaik yang pernah Anda rasakan!",
+  "imageUrl": "uploads/51159570-bt1.jpg",
+  "numberOfContent": 3,
+  "createdAt": {
+    "$date": "2024-06-26T23:11:50.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:11:50.315Z"
+  },
+  "__v": 0
+}]

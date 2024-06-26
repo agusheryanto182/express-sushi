@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "667ca06cb0f2487de32dc3b6"
+  },
+  "developer": {
+    "$oid": "667c9ca4b0f2487de32dc2c8"
+  },
+  "title": "Home, footer, navbar dan checkout",
+  "description": "Didalamnya berisi banyak fitur yang berkaitan dengan inti dari website kami seperti daftar list menu Suki             Sushi dan form untuk mengisi detail identitas pembeli.",
+  "imageUrl": "uploads/74631169-res-agus.png",
+  "createdAt": {
+    "$date": "2024-06-26T23:12:44.358Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:12:44.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ca08fb0f2487de32dc3bc"
+  },
+  "developer": {
+    "$oid": "667c9d13b0f2487de32dc2d8"
+  },
+  "title": "About",
+  "description": "Didalamnya terdapat visi dan misi Suki Sushi.",
+  "imageUrl": "uploads/93593320-res-faiz.png",
+  "createdAt": {
+    "$date": "2024-06-26T23:13:19.894Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:13:19.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ca0b8b0f2487de32dc3c2"
+  },
+  "developer": {
+    "$oid": "667c9cd5b0f2487de32dc2d0"
+  },
+  "title": "Our Service",
+  "description": "Didalamnya terdapat beberapa konten yakni Sushi Pairing Guide, Profesional Chef's, dan Delivery Order yang merupakan konten inti dari Our Service.",
+  "imageUrl": "uploads/49135853-res-bagas.png",
+  "createdAt": {
+    "$date": "2024-06-26T23:14:00.946Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:14:00.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ca0d4b0f2487de32dc3c8"
+  },
+  "developer": {
+    "$oid": "667c9cfab0f2487de32dc2d4"
+  },
+  "title": "Contact",
+  "description": "Didalam fitur Contact, Terdapat beberapa conten yakni Nomor kontak Suki Sushi, alamat, Email dan kotak kritik saran.",
+  "imageUrl": "uploads/72102392-res-ikhwan.png",
+  "createdAt": {
+    "$date": "2024-06-26T23:14:28.086Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:14:28.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ca0efb0f2487de32dc3ce"
+  },
+  "developer": {
+    "$oid": "667c9cc1b0f2487de32dc2cc"
+  },
+  "title": "Our Team",
+  "description": "Didalam fitur Our Team, menampilkan bebrapa conten yakni info mengenai anggota kelompok, Beserta dengan akun Instagram, juga akun git hub, dan juga tugas - tugas dari masing masing anggota kelompok beserta sedikit penjelasannya.",
+  "imageUrl": "uploads/81394791-res-adit.png",
+  "createdAt": {
+    "$date": "2024-06-26T23:14:55.536Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:14:55.536Z"
+  },
+  "__v": 0
+}]

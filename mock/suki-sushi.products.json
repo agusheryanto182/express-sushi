@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "667c9d92b0f2487de32dc2f2"
+  },
+  "name": "Sushi",
+  "price": 129000,
+  "category": "food",
+  "imageUrl": "uploads/31504848-bt1.jpg",
+  "rank": 5,
+  "createdAt": {
+    "$date": "2024-06-26T23:00:34.592Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:00:34.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9db0b0f2487de32dc2f7"
+  },
+  "name": "Strawberry Mix",
+  "price": 79000,
+  "category": "food",
+  "imageUrl": "uploads/35699318-bt2.jpg",
+  "rank": 1,
+  "createdAt": {
+    "$date": "2024-06-26T23:01:04.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:01:04.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9e08b0f2487de32dc307"
+  },
+  "name": "Healthy Sushi",
+  "price": 119000,
+  "category": "food",
+  "imageUrl": "uploads/97379551-bt3.jpg",
+  "rank": 3,
+  "createdAt": {
+    "$date": "2024-06-26T23:02:32.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:02:32.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9e23b0f2487de32dc318"
+  },
+  "name": "Fruit Mix",
+  "price": 59000,
+  "category": "food",
+  "imageUrl": "uploads/98318138-bt4.jpg",
+  "rank": 0,
+  "createdAt": {
+    "$date": "2024-06-26T23:02:59.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:02:59.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9e4cb0f2487de32dc31e"
+  },
+  "name": "Sake",
+  "price": 35000,
+  "category": "drink",
+  "imageUrl": "uploads/69461472-2149706123.jpg",
+  "rank": 0,
+  "createdAt": {
+    "$date": "2024-06-26T23:03:40.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:03:40.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9e62b0f2487de32dc323"
+  },
+  "name": "Genmaicha",
+  "price": 25000,
+  "category": "drink",
+  "imageUrl": "uploads/7086841-2148170655.jpg",
+  "rank": 0,
+  "createdAt": {
+    "$date": "2024-06-26T23:04:02.098Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:04:02.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9e7ab0f2487de32dc328"
+  },
+  "name": "Green Tea",
+  "price": 25000,
+  "category": "drink",
+  "imageUrl": "uploads/95612517-2148201344.jpg",
+  "rank": 0,
+  "createdAt": {
+    "$date": "2024-06-26T23:04:26.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:04:26.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9ed5b0f2487de32dc336"
+  },
+  "name": "Sushi With Avocado",
+  "price": 49000,
+  "category": "food",
+  "imageUrl": "uploads/66092923-bt6.jpg",
+  "rank": 0,
+  "createdAt": {
+    "$date": "2024-06-26T23:05:57.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:05:57.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9ef8b0f2487de32dc33b"
+  },
+  "name": "Healthy Sushi V1",
+  "price": 129000,
+  "category": "food",
+  "imageUrl": "uploads/7027021-bt8.jpg",
+  "rank": 0,
+  "createdAt": {
+    "$date": "2024-06-26T23:06:32.109Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:06:32.109Z"
+  },
+  "__v": 0
+}]

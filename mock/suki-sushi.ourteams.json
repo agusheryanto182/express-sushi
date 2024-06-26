@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "667c9ca4b0f2487de32dc2c8"
+  },
+  "name": "Agus Heryanto",
+  "nim": "22.11.4661",
+  "imageUrl": "uploads/36085683-agus.png",
+  "instagramUrl": "https://www.instagram.com/agusheryanto182",
+  "githubUrl": "https://github.com/agusheryanto182",
+  "createdAt": {
+    "$date": "2024-06-26T22:56:36.912Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T22:56:36.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9cc1b0f2487de32dc2cc"
+  },
+  "name": "Adhitya Satrio",
+  "nim": "22.11.4635",
+  "imageUrl": "uploads/76904139-adhit.jpeg",
+  "instagramUrl": "https://www.instagram.com/adhi_tyaw?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  "githubUrl": "https://github.com/AdhityaSatrioWicaksono",
+  "createdAt": {
+    "$date": "2024-06-26T22:57:05.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T22:59:19.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9cd5b0f2487de32dc2d0"
+  },
+  "name": "M Bagas",
+  "nim": "22.11.4617",
+  "imageUrl": "uploads/42743622-bagas.jpeg",
+  "instagramUrl": "https://www.instagram.com/thisisbagasslebewww?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  "githubUrl": "https://github.com/PunchTyphoid",
+  "createdAt": {
+    "$date": "2024-06-26T22:57:25.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T22:57:25.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9cfab0f2487de32dc2d4"
+  },
+  "name": "Ikhwanur A",
+  "nim": "22.11.4632",
+  "imageUrl": "uploads/89262655-ikhwan.jpg",
+  "instagramUrl": "https://www.instagram.com/knktchi_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  "githubUrl": "https://github.com/antusiasppl",
+  "createdAt": {
+    "$date": "2024-06-26T22:58:02.378Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T22:59:25.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9d13b0f2487de32dc2d8"
+  },
+  "name": "Faiz Daffa",
+  "nim": "22.11.4627",
+  "imageUrl": "uploads/99579612-faiz.jpeg",
+  "instagramUrl": "https://www.instagram.com/faizdaffaa_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  "githubUrl": "https://github.com/Faizdk",
+  "createdAt": {
+    "$date": "2024-06-26T22:58:27.894Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T22:58:27.894Z"
+  },
+  "__v": 0
+}]

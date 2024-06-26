@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "667c9b68b0f2487de32dc2ae"
+  },
+  "address": "Jl. Ring Road Utara, Ngringin, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+  "phone": "081296380081",
+  "email": "sukisushi@gmail.com",
+  "createdAt": {
+    "$date": "2024-06-26T22:51:20.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T22:51:20.873Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "667c9f06b0f2487de32dc343"
+  },
+  "title": "1",
+  "imageUrl": "uploads/48539313-bt1.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T23:06:46.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:06:46.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9f12b0f2487de32dc347"
+  },
+  "title": "2",
+  "imageUrl": "uploads/93656938-bt2.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T23:06:58.215Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:06:58.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9f1cb0f2487de32dc34b"
+  },
+  "title": "3",
+  "imageUrl": "uploads/35112854-bt4.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T23:07:08.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:07:08.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9f26b0f2487de32dc34f"
+  },
+  "title": "4",
+  "imageUrl": "uploads/35212002-bt4.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T23:07:18.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:07:18.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9f33b0f2487de32dc353"
+  },
+  "title": "5",
+  "imageUrl": "uploads/17369999-bt5.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T23:07:31.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:07:31.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9f41b0f2487de32dc357"
+  },
+  "title": "6",
+  "imageUrl": "uploads/91045672-bt6.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T23:07:45.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:07:45.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9f47b0f2487de32dc35b"
+  },
+  "title": "7",
+  "imageUrl": "uploads/17451487-bt7.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T23:07:51.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:07:51.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c9f4eb0f2487de32dc35f"
+  },
+  "title": "8",
+  "imageUrl": "uploads/24476897-bt8.jpg",
+  "createdAt": {
+    "$date": "2024-06-26T23:07:58.642Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T23:07:58.642Z"
+  },
+  "__v": 0
+}]
