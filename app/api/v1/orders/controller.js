@@ -3,7 +3,8 @@ const orderService = require('../../../services/mongoose/orderService');
 const { body, validationResult } = require('express-validator');
 
 const CreateOrder = async (req, res, next) => {
-    const { name, address, phoneNumber, email, productDetails, totalPrice } = req.body;
+    const { name, address, phoneNumber, email, productDetails } = req.body;
+    console.log(productDetails);
 
     // validation
     await body('name').isString().withMessage('name must be a string').run(req);
@@ -11,17 +12,16 @@ const CreateOrder = async (req, res, next) => {
     await body('phoneNumber').isString().withMessage('phoneNumber must be a string').run(req);
     await body('email').isEmail().withMessage('invalid email').run(req);
     await body('productDetails').isArray().withMessage('productDetails must be an array').run(req);
-    await body('totalPrice').isNumeric().withMessage('totalPrice must be a number').run(req);
     const errors = validationResult(req);
 
     try {
-        if (!name || !address || !phoneNumber || !productDetails || !totalPrice) {
+        if (!name || !address || !phoneNumber || !productDetails) {
             throw new customError.BadRequestError('all fields are required');
         }
         if (!errors.isEmpty()) {
             throw new customError.BadRequestError(errors.array()[0].msg);
         }
-        const result = await orderService.createOrder(name, address, phoneNumber, email, productDetails, totalPrice);
+        const result = await orderService.createOrder(name, address, phoneNumber, email, productDetails);
         res.status(201).json({ token: result });
     } catch (err) {
         next(err);

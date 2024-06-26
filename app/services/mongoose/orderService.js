@@ -2,8 +2,20 @@ const config = require('../../config');
 const midtransClient = require('midtrans-client');
 const orderRepo = require('../../repositories/orderRepo');
 const emailService = require('../../services/mail/emailService');
+const productRepo = require('../../repositories/productRepo');
+const customError = require('../../errors');
 
-const createOrder = async (name, address, phoneNumber, email, productDetails, totalPrice) => {
+const createOrder = async (name, address, phoneNumber, email, productDetails) => {
+    let totalPrice = 0;
+    for (let i = 0; i < productDetails.length; i++) {
+        getProduct = await productRepo.GetProductById(productDetails[i]._id);
+        totalPrice += getProduct.price * productDetails[i].quantity;
+    }
+
+    if (totalPrice <= 0) {
+        throw new customError.BadRequestError('total price cannot be negative or zero');
+    }
+
     const result = await orderRepo.CreateOrder(name, address, phoneNumber, email, productDetails, totalPrice);
 
     let snap = new midtransClient.Snap({
@@ -22,7 +34,6 @@ const createOrder = async (name, address, phoneNumber, email, productDetails, to
         }
     };
     const token = await snap.createTransactionToken(parameter);
-    console.log(token);
     return token;
 }
 
@@ -35,7 +46,6 @@ const midtransWebHook = async (transaction_status, order_id) => {
         // send email
         const resultEmail = await emailService.sendEmailTemplate(data.email, data);
 
-        console.log('resultEmail : ', resultEmail);
         return result;
     }
 }
